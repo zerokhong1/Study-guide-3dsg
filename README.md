@@ -1,5 +1,3 @@
-# Study-guide-3dsg
-
 # 📚 Study Guide: 3D Scene Graphs for Robotics
 
 > **Mục tiêu:** Tự học sâu về 3D Scene Graphs — từ nền tảng SLAM đến LLM-based planning.
